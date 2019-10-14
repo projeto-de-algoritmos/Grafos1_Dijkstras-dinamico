@@ -1,8 +1,25 @@
-# lista1_GuilhermeLeal
+# Dijkstras-dinamico
 
-## LiveServer
+Número da Lista: 1
+Conteúdo da Disciplina: Grafos
 
-Dijkstras dinamico
+## Alunos
+
+|Matrícula| Aluno|
+|--|--|
+|15/0128312| Guilherme Leal|
+
+## Instalação
+Linguagem: js
+
+
+## Uso
+Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+> Abra o arquivo index.html no seu navegador.
+
+ou acesse:
+https://projeto-de-algoritmos.github.io/Grafos1_Dijkstras-dinamico/
 
 ## Referencias
 
